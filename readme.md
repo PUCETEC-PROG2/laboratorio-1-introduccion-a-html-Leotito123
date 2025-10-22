@@ -5,7 +5,7 @@
 Crear una página web simple usando únicamente HTML que funcione como tu portafolio personal.
 
 ## Datos del estudiante
-**Nombre:** [Anderson]
+**Nombre:** Anderson Leonardo Ortiz Granada
 **Carrera:** Desarrollo de Software
 
 ## Instrucciones
